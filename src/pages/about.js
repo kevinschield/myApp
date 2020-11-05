@@ -20,4 +20,3 @@ export const query = graphql `
     }
   }
 `
-alert("change made");
